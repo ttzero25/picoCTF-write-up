@@ -34,4 +34,4 @@ Challenge link: https://play.picoctf.org/practice/challenge/471?category=5&page=
 
 
 
-Flag: `picoCTF{us3_y0urlinux_sk1lls_cedfa5fb}`
+Flag: `picoCTF{m1113n1um_3d1710n_8d7ec7f5}.`
