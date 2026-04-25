@@ -1,4 +1,4 @@
-# Fantasy CTF
+# SUDO MAKE ME A SANDWICH
 
 
 ## Challenge information
