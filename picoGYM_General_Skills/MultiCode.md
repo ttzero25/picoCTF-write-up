@@ -23,7 +23,7 @@ Challenge link: https://play.picoctf.org/practice/challenge/710?page=2
 <br>
 
 2. The string is encoded in a total of 4 steps
-<br>
+
 - Base64
 ```
 [Clue]
