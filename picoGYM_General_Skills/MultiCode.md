@@ -61,7 +61,7 @@ You can push cvpbPGS ← picoCTF 13 compartments
 Only the alphabet is replaced, and the numeric/special characters remain the same
 c→p, v→i, p→c, b→o regularity seen
 ```
-
+<br>
 3. Decode the values obtained for each step in order
 
 1) Base64 Decoding -> 637670625047532537426172666772715f72617030717661745f317137356f723633253744
@@ -69,6 +69,5 @@ c→p, v→i, p→c, b→o regularity seen
 3) URL Decoding -> cvpbPGS{arfgrq_rap0qvat_1q75or63}
 4) ROT13 Decoding -> picoCTF{nested_enc0ding_1d75be63}
 
-
-
+<br>
 Flag: 'picoCTF{nested_enc0ding_1d75be63}'
